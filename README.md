@@ -12,7 +12,7 @@ Java, Spring Boot, REST APIs, PostgreSQL, React, Tailwind CSS
 
 📌 Featured Projects:
 - 🏥 Doctor Booking System – Full-stack app with authentication & appointment management
-- 💼 Artiq (Premium Wall Reliefs) – Freelance project for a real client with modern UI and business-focused design
+- 💼 Artiq  – Freelance project for a real client with modern UI and business-focused design| 🔗 Live: https://www.artiqora.co/
 - 📊 DSA Java Solutions – Structured problem-solving repository
 
 🎯 Goal:
