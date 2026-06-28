@@ -15,8 +15,5 @@ Java, Spring Boot, REST APIs, PostgreSQL, React, Tailwind CSS
 - 💼 Artiq  – Freelance project for a real client with modern UI and business-focused design| 🔗 Live: https://www.artiqora.co/
 - 📊 DSA Java Solutions – Structured problem-solving repository
 
-🎯 Goal:
-To become a Software Developer in a product-based company (Zoho)
-
 📫 Contact:
 sanjeevasas2281@gmail.com
