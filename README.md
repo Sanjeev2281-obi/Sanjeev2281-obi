@@ -7,7 +7,7 @@ Java, Spring Boot, REST APIs, PostgreSQL, React, Tailwind CSS
 
 💡 What I Do:
 - Build full-stack applications (frontend + backend)
-- Solve DSA problems (400+ LeetCode)
+- Solve DSA problems (450+ LeetCode)
 - Focus on product-based company preparation
 
 📌 Featured Projects:
